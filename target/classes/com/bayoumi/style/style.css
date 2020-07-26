@@ -1,0 +1,97 @@
+/* === menu-bar ====*/
+.menu-bar .label {
+    -fx-text-fill: white;
+}
+
+.menu-item:focused {
+    -fx-background-color:  #141e2a;
+}
+
+.menu-item .label {
+    -fx-text-fill: black;
+}
+
+.menu-item:focused .label {
+    -fx-text-fill:  white;
+}
+.context-menu {
+    -fx-skin: "com.sun.javafx.scene.control.skin.ContextMenuSkin";
+    -fx-background-color: white;
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 0 6 6 6, 0 5 5 5, 0 4 4 4;
+    -fx-padding: 0.333333em 0.083333em 0.666667em 0.083333em;
+}
+
+/*==== BUTTON ====*/
+.media-btn{
+-fx-background-color :  transparent;
+-fx-text-fill: #ffffff;
+-fx-cursor: hand;
+-fx-background-radius: 5;
+-fx-border-color: transparent;
+-fx-border-radius:5;
+}
+.media-btn .glyph-icon {
+    -fx-fill: white;
+}
+.media-btn:hover {
+-fx-background-color: linear-gradient(#323759, #171E33);
+-fx-border-color: #40AEBB;
+-fx-border-radius:5;
+}
+/*==== SLIDER ====*/
+.progress-slider .track {
+    -fx-background-color:null;  /* Hide the track */
+}
+
+.slider .track {
+    -fx-background-color:null;  /* Hide the track */
+    -fx-background-insets: 1 0 -1 0, 0, 1;
+    -fx-background-radius: 2.5, 2.5, 1.5;
+    -fx-padding: 0.208333em; /* 2.5 */
+}
+
+.progress-bar .bar { 
+    -fx-padding: 4px; 
+    -fx-background-insets: 0; 
+}
+
+
+.jfx-slider > .track {
+     -fx-background-color: #171E33;
+}
+
+/* Styling the slider thumb */
+.jfx-slider > .thumb {
+     -fx-background-color: #418BCA;
+}
+
+/* Styling the filled track */
+.jfx-slider > .colored-track {
+     -fx-background-color: #418BCA;
+}
+
+/* Styling the animated thumb */
+.jfx-slider > .animated-thumb {
+     -fx-background-color: #418BCA;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
