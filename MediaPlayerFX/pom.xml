@@ -31,7 +31,7 @@
     </dependencies>
     <build>
 
-        <finalName>Zayir-Alkhayr</finalName>
+        <finalName>MediaPlayerFX</finalName>
 
         <plugins>
             <plugin>
@@ -39,10 +39,10 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>8.8.3</version>
                 <configuration>
-                    <vendor>Zayir-Alkhayr</vendor>
-                    <appName>Zayir-Alkhayr</appName>
-                    <title>Zayir-Alkhayr</title>
-                    <description>Zayir-Alkhayr</description>
+                    <vendor>MediaPlayerFX</vendor>
+                    <appName>MediaPlayerFX</appName>
+                    <title>MediaPlayerFX</title>
+                    <description>MediaPlayerFX</description>
                     <needMenu>true</needMenu>
                     <needShortcut>true</needShortcut>
                     <mainClass>com.bayoumi.Launcher</mainClass>

@@ -27,7 +27,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>com.bayoumi.main.Launcher</mainClass>
+                  <mainClass>com.bayoumi.Launcher</mainClass>
                 </transformer>
               </transformers>
             </configuration>
@@ -45,7 +45,7 @@
           <description>Simple Media Player</description>
           <needMenu>true</needMenu>
           <needShortcut>true</needShortcut>
-          <mainClass>com.bayoumi.main.Launcher</mainClass>
+          <mainClass>com.bayoumi.Launcher</mainClass>
           <additionalAppResources>resFolder</additionalAppResources>
         </configuration>
       </plugin>

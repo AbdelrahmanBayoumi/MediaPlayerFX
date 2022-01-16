@@ -1,7 +1,7 @@
 package com.bayoumi.util;
 
 
-import com.bayoumi.main.Launcher;
+import com.bayoumi.Launcher;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
 import javafx.scene.input.KeyCode;

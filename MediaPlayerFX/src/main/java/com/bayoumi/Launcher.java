@@ -1,4 +1,4 @@
-package com.bayoumi.main;
+package com.bayoumi;
 
 import com.bayoumi.util.LoadScreens;
 import com.bayoumi.util.Logger;
