@@ -21,11 +21,17 @@
 ## Demo
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/48678280/149670057-1b3ab861-e5e6-483c-b338-727fa71ec79e.png" alt="demo" width="400">
+<img src="https://user-images.githubusercontent.com/48678280/149670057-1b3ab861-e5e6-483c-b338-727fa71ec79e.png" alt="demo">
 </div>
 
 
-## Installation for development
+## Development
+### Requirements
+* [Java 8](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)
+* [Maven 3.3+ ](https://maven.apache.org)
+
+### Project Installation
+
 1. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
        git clone https://github.com/AbdelrahmanBayoumi/MediaPlayerFX.git
