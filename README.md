@@ -8,7 +8,7 @@
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/AbdelrahmanBayoumi/MediaPlayerFX/master/LICENSE)
 [![Azkar version](https://img.shields.io/badge/MediaPlayerFX-v1.0.0-green?style=flat)](https://github.com/AbdelrahmanBayoumi/MediaPlayerFX/releases/latest)
 ![HITS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbdelrahmanBayoumi%2FMediaPlayerFX&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)
-![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat)
+![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat) [![Java 8](https://img.shields.io/badge/Java-8-red.svg)](https://www.java.com)
 
 </div>
 
